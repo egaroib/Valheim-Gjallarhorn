@@ -1,0 +1,17 @@
+{
+  "mod": "Gjallarhorn",
+  "targets": [
+    {
+      "type": "Character",
+      "method": "OnDeath"
+    },
+    {
+      "type": "Player",
+      "method": "OnDeath"
+    },
+    {
+      "type": "ZoneSystem",
+      "method": "RPC_SetGlobalKey"
+    }
+  ]
+}

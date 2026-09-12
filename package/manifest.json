@@ -1,0 +1,10 @@
+{
+  "name": "Gjallarhorn",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/egaroib/Valheim-Gjallarhorn",
+  "description": "Server-side Viking death announcements and boss-defeat chronicles. Vanilla clients supported; installing it client-side upgrades the feed to exact killer and cause of death.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350",
+    "ValheimModding-Jotunn-2.30.0"
+  ]
+}
